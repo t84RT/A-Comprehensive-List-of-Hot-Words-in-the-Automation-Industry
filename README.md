@@ -1,4 +1,5 @@
 # 自动化行业热点词汇大全
+<img width="895" height="536" alt="image" src="https://github.com/user-attachments/assets/814b327a-97ee-4de1-a1c9-fd06a380d42b" />
 
 ## 一、工业控制基础（13 项）
 
